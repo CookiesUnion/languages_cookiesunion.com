@@ -1,0 +1,48 @@
+#. extracted from /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/notice.md
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-11-26 01:40+0000\n"
+"PO-Revision-Date: 2014-11-24 15:15+0000\n"
+"Last-Translator: miguelangel.nubla <miguelangel.nubla@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Translate Toolkit 1.12.0\n"
+"X-POOTLE-MTIME: 1416842109.000000\n"
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/notice.md:1
+msgid ""
+"# **{{site}}** uses cookies in order to deliver the best possible user "
+"experience.\n"
+"**By continuing to use {{site}}, you acknowledge that you agree to accept "
+"cookies from {{site}}**"
+msgstr ""
+"# **{{site}}** utiliza cookies con el fin de ofrecer la mejor experiencia de "
+"usuario posible.\n"
+"**Al continuar usando {{site}}, aceptas el uso de cookies de {{site}}**"
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/notice.md:4
+msgid ""
+"To make your visit as convenient as possible, please be sure that cookies "
+"are enabled in your browser’s privacy settings. If you continue on without "
+"using cookies, please be aware that this may cause some information to be "
+"displayed improperly."
+msgstr ""
+"Para hacer que su visita sea lo más conveniente posible, por favor, "
+"asegúrese de que las cookies están habilitadas en la configuración de "
+"privacidad de su navegador. Si sigue adelante sin usar cookies, tenga en "
+"cuenta que puede causar que cierta información se muestre de forma "
+"incorrecta."
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/notice.md:6
+msgid "Click [here](/#join) if you don't want to see this again."
+msgstr "Haz clic [aqui](/#join) si no quieres volver a ver esto."
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/notice.md:8
+msgid "[More info about cookies](#faq)"
+msgstr "[Más información acerca de las cookies](#faq)"

@@ -1,0 +1,141 @@
+#. extracted from /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/about.md
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-11-26 01:40+0000\n"
+"PO-Revision-Date: 2014-11-23 01:41+0000\n"
+"Last-Translator: miguelangel.nubla <miguelangel.nubla@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Translate Toolkit 1.12.0\n"
+"X-POOTLE-MTIME: 1416706875.000000\n"
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/about.md:1
+msgid ""
+"#<a name=\"what\"></a> We, at CookiesUnion.com, are tired of the EU Cookie "
+"Law. We propose an alternative."
+msgstr ""
+"#<a name=\"what\"></a> En CookiesUnion.com estamos cansados de la Ley de "
+"Cookies Europea. Proponemos una alternativa."
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/about.md:3
+msgid ""
+"###We all have experienced the constant pop-ups and notices in **every** _EU "
+"law compilant website_ you visit for the first time, and it is never ending."
+msgstr ""
+"###Todos hemos experimentado los pop-ups y notas constantes **en cada** "
+"_sitio web que cumple la Ley Europea_ cada vez que lo visitas por primera "
+"vez. Y nunca acaba."
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/about.md:5
+msgid ""
+"This is specially frustrating when for example you use a new device (phone, "
+"tablet, computer at work), use the browser incognito mode, or use a computer "
+"cleaning tool, because every website needs a _cookie_ only to **remeber** if "
+"you want or do not want _their cookies_, so you will have to re-accept "
+"_every_ notice in all of the websites that you **already!!** accepted. One "
+"by one."
+msgstr ""
+"Esto es especialmente frustante cuando por ejemplo usas otro dispositivo ("
+"teléfono, tablet, ordenador de trabajo), usas el modo incógnito del "
+"navegador, o usas una herramienta de limpieza, porque cada sitio web "
+"necesita una _cookie_ sólo para **recordar** si quieres o no quieres _sus "
+"cookies_, así que tendrás que volver a aceptar _cada_ nota en todos los "
+"sitios web que **ya!!** has aceptado. Una por una."
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/about.md:7
+msgid ""
+"Thanks to cookies we are able to login to our mail account, use social "
+"networks, buy online and so on. Cookies are a **vital** part of almost every "
+"dynamic page on the internet. We use them, we need them."
+msgstr ""
+"Gracias a las cookies somos capaces de iniciar sesión en la cuenta de email, "
+"usar las redes sociales, comprar online etc. Las cookies son una parte "
+"**vital** de casi todas las páginas dinámicas en internet. Nosotros las "
+"usamos, nosotros las necesitamos."
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/about.md:9
+msgid ""
+"> Privacy and data protection are very valuable, but some of us also value "
+"and _want_ cookies. I you ever need it, you could always [disable them in "
+"you browser](/info/#disable)."
+msgstr ""
+"> La privacidad y protección de datos es muy importante, pero nosotros "
+"también valoramos y _queremos_ cookies. Si alguna vez lo necesitas, siempre "
+"puedes [desactivarlas en tu navegador](/info/#disable)."
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/about.md:11
+msgid ""
+"##CookiesUnion.com is a initiative to allow people state their desire to use "
+"cookies and allow other websites to recognize it."
+msgstr ""
+"##CookiesUnion.com es una iniciativa que permite a la gente declarar su "
+"deseo de usar cookies y permitir a otros sitios web reconocer su deseo."
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/about.md:13
+msgid ""
+"We are not just users, we are website owners, designers, developers, etc, "
+"that have spent enough time with this subject and want a solution. Help us "
+"know you want cookies and we promise we wont bother you again. [Click here "
+"if you also want cookies!](#cookiesunion_do-not-ask-again)"
+msgstr ""
+"No somos sólo usuarios, somos propietarios de sitios web, diseñadores, "
+"desarrolladores, etc, que ya hemos perdido suficiente tiempo con este asunto "
+"y queremos una solución. Haznos saber que quieres cookies y prometemos no "
+"molestarte de nuevo. [¡Haz click aquí si tú también quieres cookies"
+"!](#cookiesunion_do-not-ask-again)"
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/about.md:15
+msgid "## <a name=\"other\"></a> How can I use it on my website?"
+msgstr "## <a name=\"other\"></a> ¿Cómo puedo usarlo en mi sitio web?"
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/about.md:17
+msgid ""
+"If you want to integrate with your own website please [click "
+"here](/integrate/) for details. It is free and anyone can do it."
+msgstr ""
+"Si quieres integrarlo en tu propio sitio web, por favor [haz click "
+"aquí](/integrate/) para ver los detalles. Es gratis y cualquiera puede "
+"hacerlo."
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/about.md:19
+msgid "## <a name=\"advanced\"></a> How this works?"
+msgstr "## <a name=\"advanced\"></a> ¿Cómo funciona?"
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/about.md:21
+msgid ""
+"When you click the button [I want cookies!](#cookiesunion_do-not-ask-again), "
+"it store a cookie named `_cookiesunion_i-want-cookies` so other websites "
+"that implement this solution can recognize your express desire to allow "
+"cookies and don't ask you even the first time you visit them. Well, at least "
+"until you change of browser or delete it's cookies, but that is in **your** "
+"hand, where it must be."
+msgstr ""
+"Cuando haces click en el botón [¡Quiero cookies!](#cookiesunion_do-not-ask-"
+"again), guarda una cookie con nombre `_cookiesunion_i-want-cookies` para que "
+"otros sitios web que implementan esta solución puedan reconocer tu deseo "
+"expreso de permitir cookies y no preguntarte sobre ellas ni la primera vez "
+"que les visitas. Bueno, por lo menos hasta que cambies de navegador o borres "
+"sus cookies, pero eso está en **tu mano**, donde debe de estar."
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/about.md:23
+msgid ""
+"## <a name=\"other\"></a> Why other websites keep asking me about cookies?"
+msgstr ""
+"## <a name=\"other\"></a> ¿Por qué otros sitios web me siguen preguntando "
+"acerca de las cookies?"
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/about.md:25
+msgid ""
+"Websites that are not members of CookiesUnion.com will not recognize your "
+"desire to allow cookies. You can always ask them to [become "
+"members](/integrate/)."
+msgstr ""
+"Sitios web que no son miembros de CookiesUnion.com no reconocerán tu deseo "
+"de permitir cookies. Siempre puedes pedirles que [se hagan "
+"miembros](/integrate/)."
