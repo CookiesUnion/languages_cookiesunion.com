@@ -1,0 +1,100 @@
+#. extracted from /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/about.md
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-11-26 01:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.12.0\n"
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/about.md:1
+msgid ""
+"#<a name=\"what\"></a> We, at CookiesUnion.com, are tired of the EU Cookie "
+"Law. We propose an alternative."
+msgstr ""
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/about.md:3
+msgid ""
+"###We all have experienced the constant pop-ups and notices in **every** _EU "
+"law compilant website_ you visit for the first time, and it is never ending."
+msgstr ""
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/about.md:5
+msgid ""
+"This is specially frustrating when for example you use a new device (phone, "
+"tablet, computer at work), use the browser incognito mode, or use a computer "
+"cleaning tool, because every website needs a _cookie_ only to **remeber** if "
+"you want or do not want _their cookies_, so you will have to re-accept "
+"_every_ notice in all of the websites that you **already!!** accepted. One "
+"by one."
+msgstr ""
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/about.md:7
+msgid ""
+"Thanks to cookies we are able to login to our mail account, use social "
+"networks, buy online and so on. Cookies are a **vital** part of almost every "
+"dynamic page on the internet. We use them, we need them."
+msgstr ""
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/about.md:9
+msgid ""
+"> Privacy and data protection are very valuable, but some of us also value "
+"and _want_ cookies. I you ever need it, you could always [disable them in "
+"you browser](/info/#disable)."
+msgstr ""
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/about.md:11
+msgid ""
+"##CookiesUnion.com is a initiative to allow people state their desire to use "
+"cookies and allow other websites to recognize it."
+msgstr ""
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/about.md:13
+msgid ""
+"We are not just users, we are website owners, designers, developers, etc, "
+"that have spent enough time with this subject and want a solution. Help us "
+"know you want cookies and we promise we wont bother you again. [Click here "
+"if you also want cookies!](#cookiesunion_do-not-ask-again)"
+msgstr ""
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/about.md:15
+msgid "## <a name=\"other\"></a> How can I use it on my website?"
+msgstr ""
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/about.md:17
+msgid ""
+"If you want to integrate with your own website please [click "
+"here](/integrate/) for details. It is free and anyone can do it."
+msgstr ""
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/about.md:19
+msgid "## <a name=\"advanced\"></a> How this works?"
+msgstr ""
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/about.md:21
+msgid ""
+"When you click the button [I want cookies!](#cookiesunion_do-not-ask-again), "
+"it store a cookie named `_cookiesunion_i-want-cookies` so other websites "
+"that implement this solution can recognize your express desire to allow "
+"cookies and don't ask you even the first time you visit them. Well, at least "
+"until you change of browser or delete it's cookies, but that is in **your** "
+"hand, where it must be."
+msgstr ""
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/about.md:23
+msgid ""
+"## <a name=\"other\"></a> Why other websites keep asking me about cookies?"
+msgstr ""
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/about.md:25
+msgid ""
+"Websites that are not members of CookiesUnion.com will not recognize your "
+"desire to allow cookies. You can always ask them to [become "
+"members](/integrate/)."
+msgstr ""

@@ -1,0 +1,210 @@
+#. extracted from /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/faq.md
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-11-26 01:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.12.0\n"
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/faq.md:1
+msgid "# <a name=\"faq\"></a>Cookie FAQ"
+msgstr ""
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/faq.md:3
+msgid "## <a name=\"what_are_cookies\"></a> What are cookies?"
+msgstr ""
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/faq.md:5
+msgid ""
+"Cookies are small text files (much like notes) which are sent to your "
+"computer, smartphone, or other device when you visit a website."
+msgstr ""
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/faq.md:7
+msgid ""
+"Cookies are useful in that they help to capture the information necessary "
+"for websites to remember your device and personal preferences."
+msgstr ""
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/faq.md:9
+msgid ""
+"> Contrary to popular belief, cookies are not a form of virus or malicious "
+"software. They are simply text notes which aids the website in adopting the "
+"correct behaviors."
+msgstr ""
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/faq.md:12
+msgid "## <a name=\"how_cookies_work\"></a> How do they work?"
+msgstr ""
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/faq.md:14
+msgid ""
+"When you visit a website, that site sends cookies to your device where they "
+"are stored temporarily."
+msgstr ""
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/faq.md:16
+msgid ""
+"When you re-visit the site using the same device, the cookies are returned "
+"to the website, allowing it to recall important data such as individual "
+"preferences. **That's it.**"
+msgstr ""
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/faq.md:18
+msgid ""
+"Let's see an example:\n"
+"    1. The user visit a news website.\n"
+"    2. The website send today's news.\n"
+"    3. The user click on \"I am interested in sports\".\n"
+"    4. The website writes a cookie in the user browser: \"interest: sports\"."
+"\n"
+"    5. The user visit the website later. His browser send back the cookie "
+"(note) \"interest: sports\" to the website.\n"
+"    6. The website send today's news, but with sports at the top."
+msgstr ""
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/faq.md:27
+msgid "## <a name=\"why\"></a> Why are cookies necessary?"
+msgstr ""
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/faq.md:29
+msgid ""
+"Cookies are useful because they help websites to remember information "
+"relevant to a user’s individual experience.\n"
+"This includes things such as remembering whether you are logged into your "
+"account (or not), showing you the appropriate content, language preferences, "
+"or the items placed in an online shopping cart. Without cookies, you would "
+"have to reenter this information in its entirety each time you visit a "
+"website."
+msgstr ""
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/faq.md:32
+msgid ""
+"Cookies also help to track _anonymous_ information about visits to a website "
+"so it can be improved."
+msgstr ""
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/faq.md:34
+msgid ""
+"Remember, cookies do not know your name, but the company who write them _may "
+"do_."
+msgstr ""
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/faq.md:37
+msgid "## <a name=\"disable\"></a>How can I disable cookies?"
+msgstr ""
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/faq.md:39
+msgid ""
+"Every browser have their own configuration panel, but it is common to find "
+"it under \"Privacy\" or \"Content settings\".\n"
+"For more detailed instructions:"
+msgstr ""
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/faq.md:42
+msgid ""
+"* [Google Chrome](https://support.google.com/chrome/answer/95647)\n"
+"* [Mozilla Firefrox](https://support.mozilla.org/en-US/kb/enable-and-disable-"
+"cookies-website-preferences)\n"
+"* [Microsoft Internet Explorer](http://windows.microsoft.com/en-us/internet-"
+"explorer/delete-manage-cookies)"
+msgstr ""
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/faq.md:46
+msgid ""
+"You know what you are doing.\n"
+"Some websites may behave incorrectly and a lot of them will stop working. "
+"And remeber, cookie notices *everywhere*."
+msgstr ""
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/faq.md:49
+msgid ""
+"Modern browsers such as Google Chrome allow cookie restriction by domain. "
+"You could find that method more usefull than disable cookie support "
+"completely."
+msgstr ""
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/faq.md:52
+msgid "## <a name=\"law\"></a> What is the EU Cookie Law?"
+msgstr ""
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/faq.md:54
+msgid ""
+"Cookie law is the commonly used term that refers to the [Directive 2002/58 "
+"on Privacy and Electronic Communications](http://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0058:en:HTML) known "
+"as E-Privacy Directive, wich sets general requirements about privacy and "
+"data protection for the electronic and communications sector in the European "
+"Union."
+msgstr ""
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/faq.md:57
+msgid "## <a name=\"bad\"></a> So cookies are not bad?"
+msgstr ""
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/faq.md:59
+msgid ""
+"#### As described before, cookies are just a way to store information. How "
+"websites use them are another matter."
+msgstr ""
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/faq.md:61
+msgid ""
+"For example, social networks have personal information and therefore cookies "
+"set by them can leave some information about you or about your actions, "
+"profiles you visit, things you share, etc. But that is not a problem with "
+"cookies, you also leave a tail of accesed url's (unless you use a ssl vpn), "
+"or the images cached (automatically downloaded and stored without your "
+"permission in your browser)."
+msgstr ""
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/faq.md:63
+msgid ""
+"Here, the power to do evil is in the social network, the website owner.\n"
+"Only they can configure their websites to be more secure (use https://), to "
+"not write cookies with personal information inside, and enable technologies "
+"and policies to protect your privacy.\n"
+"That is why the never-readed-by-most-users \"Terms and conditions\" are so "
+"important. In most of them you **consent** the usage of you data."
+msgstr ""
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/faq.md:67
+msgid ""
+"_They can't do wrong <u>unless you give them</u> the tools._ The first "
+"choice is yours."
+msgstr ""
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/faq.md:69
+msgid ""
+"**If you visit a website about news and they ask you to use cookies, well "
+"you have not given them any personal data right? Even if they wanted to, "
+"what could they do?**"
+msgstr ""
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/faq.md:71
+msgid ""
+"In the same way a website that have all kind of information about you but "
+"claim not to use cookies is _no good_ either."
+msgstr ""
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/faq.md:74
+msgid ""
+"## <a name=\"abroad\"></a> I don't live in the European Union. Am I affected?"
+msgstr ""
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/faq.md:76
+msgid "#### These notices and alerts will also be shown to you."
+msgstr ""
+
+#: /data/files/www/pootle/vcs/MSP/src/modules/cookiesunion/dev/modules/translate/en_US/faq.md:78
+msgid ""
+"The law affect websites in the EU, or targeted in the EU, so certain non-eu "
+"based websites should also inform their users and ask for permission."
+msgstr ""
